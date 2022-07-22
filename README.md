@@ -3,7 +3,7 @@ Repo to share code from learning python sessions
 
 Session 1: wow.py
 Session 2: popcorn.py
-Homework 1: Pythagorean Triplets
+Homework 1: pythagorean.py
 Session 3: show_recommend.py
 Homework 2: fizzbuzz.py
 Session 4: Fibonacci.py
